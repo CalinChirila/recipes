@@ -1,0 +1,14 @@
+Ingredients:
+	- oil;
+	- 2 eggs;
+	- lots-o-bacon;
+
+Instructions:
+	- add oil to the frying pan;
+	- let the oil heat up;
+	- add the bacon to the frying pan;
+	- dodge heated oil;
+	- add the eggs;
+	- dodge heated oil again;
+	- wait for 2 minutes;
+	- serve.
